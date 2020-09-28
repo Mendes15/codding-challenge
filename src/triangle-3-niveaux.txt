@@ -6,8 +6,8 @@ NIVEAU 1 -> DÉFIS
 NIVEAU 2 - Écrirer les differents étapes / estratégies
 
 1- installer react et react router dom ^
-2 faire un dossier components: Home, Series et Movies et importer/ exporter les modules necessaires
-2.1 - commencer un git
+2 faire un dossier components: Home, Series et Movies et importer/ exporter les modules necessaires V
+2.1 - commencer un git - V
 3- Mettre en place le router: mettre le header et footer  fixe dans les autres components
 3.1- faire un fichier json avec 21 series et Movies
 4- mettre en fetch pour récuperer les donnes des api dans les components Series et Movies
